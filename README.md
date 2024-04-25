@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakob18
 - 👀 I’m interested in Angular and Java
-- 🌱 I’m currently learning JWT
+- 🌱 I’m currently learning Camunda and BPMN 2.0
 - 💞️ I’m looking to collaborate on building great applications with Angular, Java and Spring boot
 - 📫 How to reach me https://www.linkedin.com/in/bmjakob/
 
